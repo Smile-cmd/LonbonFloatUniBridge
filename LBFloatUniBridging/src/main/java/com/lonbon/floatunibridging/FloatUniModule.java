@@ -65,7 +65,7 @@ import kotlin.jvm.functions.Function1;
  * Copyright (C),2007-2016, LonBon Technologies Co. Ltd. All Rights Reserved.
  * <p>
  * *****************************************************************************
- *
+ * 这是来邦厂家提供的uniapp 框架SDK
  * @ProjectName: LBFloatUniDemo
  * @Package: com.lonbon.floatunibridging
  * @ClassName: FloatUniModule
