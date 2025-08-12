@@ -66,6 +66,7 @@ import kotlin.jvm.functions.Function1;
  * <p>
  * *****************************************************************************
  * 这是来邦厂家提供的uniapp 框架SDK
+ *
  * @ProjectName: LBFloatUniDemo
  * @Package: com.lonbon.floatunibridging
  * @ClassName: FloatUniModule
